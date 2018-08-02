@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.3 (64-bit)
+# SW Build 1682563 on Mon Oct 10 19:07:27 MDT 2016
+# IP Build 1681267 on Mon Oct 10 21:28:31 MDT 2016
+# Start of session at: Thu Dec 28 17:21:43 2017
+# Process ID: 7084
+# Current directory: D:/UART/uart_top/uart_top.runs/synth_1
+# Command line: vivado.exe -log uart_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source uart_top.tcl
+# Log file: D:/UART/uart_top/uart_top.runs/synth_1/uart_top.vds
+# Journal file: D:/UART/uart_top/uart_top.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source uart_top.tcl -notrace

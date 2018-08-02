@@ -1,0 +1,237 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dd:/uart/uart
+T_opt
+!s110 1514450730
+Vjn3OC^fRcfTZcggdkZA`:3
+04 6 2 work uart_f u1 1
+=1-d067e5212a83-5a44af29-37f-e88
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5c;63
+R0
+T_opt1
+!s110 1514453823
+V14ORSL61ae2CmaY8^C4_B0
+04 4 2 work uart u1 1
+=1-d067e5212a83-5a44bb3f-117-1408
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1514456753
+VUC7cX1`f8j6McKc<XJ8h^2
+04 8 2 work uart_top u1 1
+=1-d067e5212a83-5a44c6b0-393-15ec
+R1
+R2
+n@_opt2
+R3
+R0
+Euart
+Z4 w1514454916
+Z5 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 dD:/UART/uart
+Z9 8D:/UART/uart/uart_rx_f.vhdl
+Z10 FD:/UART/uart/uart_rx_f.vhdl
+l0
+L5
+V`mc7Zi88L1W>cjZMDj8_k3
+!s100 48l^Rl9N8oHh6h<;WIN_K3
+Z11 OL;C;10.5c;63
+32
+Z12 !s110 1514455906
+!i10b 1
+Z13 !s108 1514455906.000000
+Z14 !s90 -reportprogress|300|-work|work|D:/UART/uart/uart_rx_f.vhdl|D:/UART/uart/uart_top.vhdl|D:/UART/uart/uart_tx_f.vhdl|
+Z15 !s107 D:/UART/uart/uart_tx_f.vhdl|D:/UART/uart/uart_top.vhdl|D:/UART/uart/uart_rx_f.vhdl|
+!i113 0
+Z16 o-work work
+Z17 tExplicit 1 CvgOpt 0
+Au1
+R5
+R6
+R7
+DEx4 work 4 uart 0 22 `mc7Zi88L1W>cjZMDj8_k3
+l15
+L12
+VVHKBKJl25M1]hJ8jUSZ`k0
+!s100 @O;`CbMI8jOU?S6TLScJ40
+R11
+32
+R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
+Euart_f
+Z18 w1514454882
+Z19 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R6
+R7
+R8
+Z20 8D:/UART/uart/uart_tx_f.vhdl
+Z21 FD:/UART/uart/uart_tx_f.vhdl
+l0
+L5
+V;A3EUJ5LDW2X<lD6PBQ8G1
+!s100 K`D:cF3^9DdAc<o2oFZIV2
+R11
+32
+Z22 !s110 1514454947
+!i10b 1
+Z23 !s108 1514454947.000000
+Z24 !s90 -reportprogress|300|-work|work|D:/UART/uart/uart_rx_f.vhdl|D:/UART/uart/uart_tx_f.vhdl|
+Z25 !s107 D:/UART/uart/uart_tx_f.vhdl|D:/UART/uart/uart_rx_f.vhdl|
+!i113 0
+R16
+R17
+Au1
+R19
+R6
+R7
+DEx4 work 6 uart_f 0 22 ;A3EUJ5LDW2X<lD6PBQ8G1
+l19
+L15
+VkEK4PARPZ5ehRXzR8G73h2
+!s100 Xgf2ePHdca`eASC5iba0c2
+R11
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R16
+R17
+Euart_rx
+Z26 w1514455982
+R5
+R6
+R7
+R8
+Z27 8uart_rx_f.vhdl
+Z28 Fuart_rx_f.vhdl
+l0
+L5
+VRXIjPf1EEP?AaJCR?0]U@1
+!s100 EZ1dbhgTY6cWggWWaK;:B3
+R11
+32
+Z29 !s110 1514457157
+!i10b 1
+Z30 !s108 1514457157.000000
+Z31 !s90 -reportprogress|300|uart_rx_f.vhdl|
+Z32 !s107 uart_rx_f.vhdl|
+!i113 0
+R17
+Au1
+R5
+R6
+R7
+DEx4 work 7 uart_rx 0 22 RXIjPf1EEP?AaJCR?0]U@1
+l15
+L12
+VL<V2lmi6offX;GAEUi9H]3
+!s100 EAME<YTUdM9]LXLPzVoUf0
+R11
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 0
+R17
+Euart_top
+Z33 w1514456498
+R6
+R7
+R8
+Z34 8uart_top.vhdl
+Z35 Fuart_top.vhdl
+l0
+L4
+VVLReNT>WQdF1MUl@zgfJV0
+!s100 3FKb;8kiZ]SfB3Qcm55bc0
+R11
+32
+Z36 !s110 1514457158
+!i10b 1
+Z37 !s108 1514457158.000000
+Z38 !s90 -reportprogress|300|uart_top.vhdl|
+Z39 !s107 uart_top.vhdl|
+!i113 0
+R17
+Au1
+R6
+R7
+Z40 DEx4 work 8 uart_top 0 22 VLReNT>WQdF1MUl@zgfJV0
+l25
+L12
+Z41 VH_6XZAa_zGd`n;?kz1>3d1
+Z42 !s100 o46GZJ_:Fh86B[X>dFdlk1
+R11
+32
+R36
+!i10b 1
+R37
+R38
+R39
+!i113 0
+R17
+Euart_tx
+Z43 w1514455388
+R19
+R6
+R7
+R8
+Z44 8uart_tx_f.vhdl
+Z45 Fuart_tx_f.vhdl
+l0
+L5
+V6ibaml_Rb2nND`b[0PAH:0
+!s100 I35f>hf`21OFP[EB9MZPe0
+R11
+32
+R29
+!i10b 1
+R30
+Z46 !s90 -reportprogress|300|uart_tx_f.vhdl|
+Z47 !s107 uart_tx_f.vhdl|
+!i113 0
+R17
+Au1
+R19
+R6
+R7
+DEx4 work 7 uart_tx 0 22 6ibaml_Rb2nND`b[0PAH:0
+l19
+L15
+VWJfl?2GX`4j71BKICG`1b1
+!s100 D31]EJ2kcRdm81C24>:Gf2
+R11
+32
+R29
+!i10b 1
+R30
+R46
+R47
+!i113 0
+R17
